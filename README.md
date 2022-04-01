@@ -15,3 +15,4 @@ HOW TO CONTRIBUTE --->
 
 CREDIT --->
  [Hanifat Owuri] (https://github.com/OWUREE/)
+Oluwaseun Sodeeq and saheed adeniran (project-page section)
